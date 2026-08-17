@@ -15,7 +15,7 @@ Anyone running fulfillment with ShipBob who wants to use AI agents and assistant
 
 | Topic | What's inside |
 |---|---|
-| [00_getting_started](00_getting_started/) | Connect Claude Desktop to ShipBob, then connect a second business |
+| [00_getting_started](00_getting_started/) | Connect Claude Desktop or ChatGPT to ShipBob, then connect a second business |
 | [01_inbound_and_wro](01_inbound_and_wro/) | Create a warehouse receiving order (WRO), by prompt or from a packing slip |
 | [02_automated_reporting](02_automated_reporting/) | Get an automated daily inbound report, two different ways |
 
