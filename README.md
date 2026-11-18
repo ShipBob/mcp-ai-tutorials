@@ -19,6 +19,10 @@ Anyone running fulfillment with ShipBob who wants to use AI agents and assistant
 | [01_inbound_and_wro](01_inbound_and_wro/) | Create a warehouse receiving order (WRO), by prompt or from a packing slip |
 | [02_automated_reporting](02_automated_reporting/) | Get an automated daily inbound report, two different ways |
 
+## Prompt library
+
+Ready-to-paste prompts for reports, fixes, inventory planning and gifting: [prompts/](prompts/). Preparing for Black Friday and Cyber Monday? Start with the [Peak 2026 Prompt Pack](prompts/peak-2026/).
+
 ## Resources
 
 **ShipBob official**
